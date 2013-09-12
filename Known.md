@@ -1,4 +1,4 @@
-Thanks for inviting me.  I'm an academic, which means I tend to worry about issues you ignore, and you worry about issues of which I am ignorant.  One of the things of which I remain blissfully ignorant:  Stakeholder.  What does this mean?
+
 
 Coming from oblique angle, so predictably, perhaps, I'd like to talk about sex and Videogames and Keanu Reeves
 
