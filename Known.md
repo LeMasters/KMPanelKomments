@@ -1,7 +1,3 @@
-Sept 10-11, 2013
-Kent State KMCenter planning symposium
-DOT Library, Washington DC
-
 Thanks for inviting me.  I'm an academic, which means I tend to worry about issues you ignore, and you worry about issues of which I am ignorant.  One of the things of which I remain blissfully ignorant:  Stakeholder.  What does this mean?
 
 Coming from oblique angle, so predictably, perhaps, I'd like to talk about sex and Videogames and Keanu Reeves
@@ -16,7 +12,7 @@ The experience of whaling, however, is not, and there is no way to "translate" t
 
   I would point to the space program as an example.  All the specs of the Apollo and mercury programs are instantly on hand.  But, as NASA knows, that knowledge doesn't add up to much any more.  They Used to fantasize about sending poets into space to better capture the experience.  That is an alphabet-oriented fantasy.  Watch the amazing trailer for the new film Gravity, by the director of Children of Men, and you'll begin to get a  better sense of where NASA should focus its efforts:  Not merely the conveyance of experience, but the curation and provision of experience.
 
-And this is what simulation has to offer:  Mediated, contrived, immediate experience.
+And This is what simulation has to offer:  Mediated, contrived, immediate experience.
 
 Importantly, though, we have to bear in mind that this form of knowledge is material, phenomenal.   In the movie the Matrix, Keanu Reeves is memorably provided instantly with the knowledge of how to fly a helicopter.  It is literally downloaded into his brain.  This is problematic I think, and is really more of a solution for the 20th century (how do I explain how Keanu suddenly knows how to fly a helicopter) than it is for the 21st (how do I convey the experience of flying a helicopter).  Keanu's acquisition of this knowledge fits nicely with the Just In Time education model we hear so much about, but it conflates data acquisition with knowledge.  
 
